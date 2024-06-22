@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorOn">#FF018786</color>
+    <color name="colorOff">#FF9E9E9E</color>
+    <color name="colorThumbOn">#FF018786</color>
+    <color name="colorThumbOff">#FF757575</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="blue">#2196F3</color>
+    <color name="red">#FF0000</color>
+
+    <!-- Team 2 (Light Mode) için renkler -->
+    <color name="team2_background">#FFA6A6</color> <!-- Çok açık kırmızı arka plan -->
+    <color name="switch_track_on_team2">#FF3232</color> <!-- Kapalıyken track için koyudan daha açık kırmızı -->
+    <color name="switch_thumb_on_team2">#FF0000</color> <!-- Kapalıyken thumb için koyu kırmızı -->
+
+    <!-- Team 1 (Dark Mode) için renkler -->
+    <color name="team1_background">#E1F5FE</color> <!-- Çok açık mavi arka plan -->
+    <color name="switch_track_off_team1">#FF03A9F4</color> <!-- Açıkken track için açık mavi -->
+    <color name="switch_thumb_off_team1">#FF0288D1</color> <!-- Açıkken thumb için koyu mavi -->
+
+<!--    &lt;!&ndash; Team 1 (Light Mode) için renkler &ndash;&gt;-->
+<!--    <color name="team1_background">#FFF9E5</color> &lt;!&ndash; Çok açık sarı arka plan &ndash;&gt;-->
+<!--    <color name="switch_track_off_team1">#FFFFC107</color> &lt;!&ndash; Kapalıyken track için amber &ndash;&gt;-->
+<!--    <color name="switch_thumb_off_team1">#FFFF9800</color> &lt;!&ndash; Kapalıyken thumb için turuncu &ndash;&gt;-->
+
+<!--    &lt;!&ndash; Team 2 (Dark Mode) için renkler &ndash;&gt;-->
+<!--    <color name="team2_background">#E1F5FE</color> &lt;!&ndash; Çok açık mavi arka plan &ndash;&gt;-->
+<!--    <color name="switch_track_on_team2">#FF03A9F4</color> &lt;!&ndash; Açıkken track için açık mavi &ndash;&gt;-->
+<!--    <color name="switch_thumb_on_team2">#FF0288D1</color> &lt;!&ndash; Açıkken thumb için koyu mavi &ndash;&gt;-->
+
+    <!-- Oyun alanı için arka plan rengi -->
+    <color name="material_background_color">#FFC4E2</color>
+</resources>

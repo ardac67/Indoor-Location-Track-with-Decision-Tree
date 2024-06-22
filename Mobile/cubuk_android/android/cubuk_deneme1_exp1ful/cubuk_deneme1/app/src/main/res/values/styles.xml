@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Custom Switch Style -->
+    <style name="CustomSwitch" parent="Widget.MaterialComponents.CompoundButton.Switch">
+        <item name="android:switchMinWidth">96dp</item>
+        <item name="android:switchPadding">32dp</item>
+        <item name="android:scaleX">1.5</item>
+        <item name="android:scaleY">1.5</item>
+    </style>
+</resources>
